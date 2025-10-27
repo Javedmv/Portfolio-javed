@@ -330,14 +330,14 @@ Education:
             </div>
             
             <div className="flex items-center gap-1 sm:gap-2 flex-shrink-0">
-              <span className="text-[#00ff00] whitespace-nowrap text-xs sm:text-sm md:text-base">visitor@portfolio:~$</span>
+              <span className="text-[#00ff00] whitespace-nowrap text-xs sm:text-sm md:text-lg">visitor@portfolio:~$</span>
               <input
                 ref={inputRef}
                 type="text"
                 value={input}
                 onChange={(e) => setInput(e.target.value)}
                 onKeyPress={handleKeyPress}
-                className="flex-1 bg-transparent border-none outline-none text-[#00ff00] font-mono text-xs sm:text-sm md:text-base"
+                className="flex-1 bg-transparent border-none outline-none text-[#00ff00] font-mono text-xs sm:text-sm md:text-lg"
                 autoFocus
                 spellCheck="false"
                 autoComplete="off"
