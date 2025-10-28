@@ -28,12 +28,12 @@ const Hero = () => {
 
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ░                                                              ░
-░        ██╗ █████╗ ██╗   ██╗███████╗██████╗ ███████╗           ░
-░        ██║██╔══██╗██║   ██║██╔════╝██╔══██╗██╔════╝           ░
-░        ██║███████║██║   ██║█████╗  ██║  ██║███████╗           ░
-░   ██╗  ██║██╔══██║╚██╗ ██╔╝██╔══╝  ██║  ██║╚════██║           ░
-░   ╚█████╔╝██║  ██║ ╚████╔╝ ███████╗██████╔╝███████║           ░
-░    ╚════╝ ╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚═════╝ ╚══════╝           ░
+░        ██╗ █████╗ ██╗   ██╗███████╗██████╗ █ ███████╗         ░
+░        ██║██╔══██╗██║   ██║██╔════╝██╔══██╗  ██╔════╝         ░
+░        ██║███████║██║   ██║█████╗  ██║  ██║  ███████╗         ░
+░   ██╗  ██║██╔══██║╚██╗ ██╔╝██╔══╝  ██║  ██║  ╚════██║         ░
+░   ╚█████╔╝██║  ██║ ╚████╔╝ ███████╗██████╔╝  ███████║         ░
+░    ╚════╝ ╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚═════╝   ╚══════╝         ░
 ░                                                              ░
 ░        Terminal Portfolio - Full Stack Developer             ░
 ░                                                              ░
@@ -95,13 +95,14 @@ Tip: You can use shortcuts!
       description: "Learn more about me",
       aliases: ['a'],
       fn: () => `
-Hi there! I'm Javed MV
+Javed Mv Full Stack Developer
+specializing in the complete product lifecycle, 
+from initial concept to scalable cloud deployment. 
+I am a versatile builder, consistently integrating the best-in-class
+tools—be it MongoDB, PostgreSQL, or emerging cloud technologies—to deliver robust,
+cutting-edge applications.
 
-Full Stack Developer passionate 
-about building innovative web 
-solutions.
-
-Specializing in:
+Core Stack:
   • Frontend (React, TypeScript)
   • Backend (Node.js, Express)
   • Databases (MongoDB, PostgreSQL)
